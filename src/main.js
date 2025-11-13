@@ -1,3 +1,5 @@
-export {
+const TEST = "test";
 
+export {
+  TEST
 }
