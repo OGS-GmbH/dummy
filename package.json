@@ -1,0 +1,9 @@
+{
+  "name": "@ogs-gmbh/dummy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "OGS GmbH",
+  "license": "MIT",
+  "packageManager": "pnpm@10.22.0"
+}
