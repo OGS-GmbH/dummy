@@ -4,6 +4,5 @@
   "main": "index.js",
   "keywords": [],
   "author": "OGS GmbH",
-  "license": "MIT",
-  "packageManager": "pnpm@10.22.0"
+  "license": "MIT"
 }
